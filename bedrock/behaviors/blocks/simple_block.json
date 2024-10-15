@@ -1,0 +1,22 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:block": {
+    "description": {
+      "identifier": "examplemod:simple_block"
+    },
+    "components": {
+      "minecraft:loot": "loot_tables/chests/simple_dungeon.json",
+      "minecraft:destructible_by_mining": { "seconds_to_destroy": 1.25 },
+      "minecraft:destructible_by_explosion": { "explosion_resistance": 4.2 },
+      "minecraft:map_color": "#000000",
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:friction": 0.1,
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "examplemod:simple_block",
+          "render_method": "alpha_test"
+        }
+      }
+    }
+  }
+}

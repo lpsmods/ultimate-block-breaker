@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/vanillaitem"
+	},
+	"overrides": [
+
+		{ "predicate": {"custom_model_data": #}, "model": "item/newitem"}
+	]
+}

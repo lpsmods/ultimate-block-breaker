@@ -1,0 +1,11 @@
+{
+  "load.minecraft": "§rTemplateLoad",
+  
+  "item.minecraft.template": "§rTemplateItem",
+  "icon.minecraft.template": "§rTemplateIcon",
+  "block.minecraft.template": "§rTemplateBlock",
+  "gui.template": "§rTemplateGui",
+  "container.template": "§rTemplate",
+  "advancements.template.title": "§rTemplateTitle",
+  "advancements.template.description": "§rTemplateDesc"
+}

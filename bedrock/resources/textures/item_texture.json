@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "examplemod:simple_food": {
+      "textures": "textures/items/simple_food.png"
+    },
+    "examplemod:simple_item": {
+      "textures": "textures/items/simple_item.png"
+    },
+    "examplemod:simple_tool": {
+      "textures": "textures/items/simple_tool.png"
+    }
+  }
+}

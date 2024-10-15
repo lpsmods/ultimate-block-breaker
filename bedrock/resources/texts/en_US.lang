@@ -1,0 +1,6 @@
+﻿pack.name=examplemod RP
+pack.description=§av1.0.0§r - desc! §8Developer: §6Legopitstop
+
+gui.HERE=HERE
+tile.examplemod:HERE.name=HERE
+item.examplemod:HERE=HERE

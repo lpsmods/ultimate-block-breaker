@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "examplemod:simple_food",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.miscFood"
+      }
+    },
+    "components": {
+      "minecraft:use_animation": "eat",
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": "examplemod:simple_food",
+      "minecraft:use_modifiers": { "use_duration": 1.61 },
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation_modifier": 1.5,
+        "using_converts_to": "minecraft:bowl"
+      }
+    }
+  }
+}

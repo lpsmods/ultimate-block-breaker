@@ -1,0 +1,31 @@
+{
+  "format_version": "1.19.40",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "examplemod:item",
+      "item": {
+        "examplemod:item": "q.owner_identifier=='minecraft:player'"
+      },
+      "materials": {
+        "default": "entity_alphatest",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "default": "textures/models/item/item",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": { "default": "geometry.item" },
+      "animations": {
+        "first_person": "animation.player.item.first_person",
+        "third_person": "animation.player.item.third_person"
+      },
+      "scripts": {
+        "animate": [
+          { "first_person": "c.is_first_person == 1.0" },
+          { "third_person": "c.is_first_person == 0.0" }
+        ]
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

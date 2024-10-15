@@ -1,0 +1,6 @@
+{
+    "commands.reload.success.examplemod": "MOD_NAME has been reloaded",
+    "item.examplemod.name": "Item Name",
+    "block.examplemod.name": "Block Name",
+    "entity.examplemod.name": "Block Name"
+}

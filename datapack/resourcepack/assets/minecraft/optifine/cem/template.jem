@@ -1,0 +1,24 @@
+{
+    "texture": "template.png",
+    "textureSize": [128,128],
+    "models": [
+        {
+            "id": "",
+            "part": "body",
+            "translate": [0,0,0],
+            "rotate": [0,0,0],
+            "boxes": [
+                {
+                    "coordinates": [0,0,0,1,1,1],
+                    "textureOffset": [0,0],
+                    "uvDown": [0,0,1,1],
+                    "uvUp": [0,0,1,1],
+                    "uvNorth": [0,0,1,1],
+                    "uvSouth": [0,0,1,1],
+                    "uvEast": [0,0,1,1],
+                    "uvWest": [0,0,1,1]
+                }
+            ]
+        }
+    ]
+}
