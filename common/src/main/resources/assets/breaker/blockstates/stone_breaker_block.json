@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "powered=false,facing=down": {
+      "model": "breaker:block/stone_breaker_block",
+      "x": 90
+    },
+    "powered=false,facing=east": {
+      "model": "breaker:block/stone_breaker_block",
+      "y": 90
+    },
+    "powered=false,facing=north": {
+      "model": "breaker:block/stone_breaker_block"
+    },
+    "powered=false,facing=south": {
+      "model": "breaker:block/stone_breaker_block",
+      "y": 180
+    },
+    "powered=false,facing=up": {
+      "model": "breaker:block/stone_breaker_block",
+      "x": 270
+    },
+    "powered=false,facing=west": {
+      "model": "breaker:block/stone_breaker_block",
+      "y": 270
+    },
+    "powered=true,facing=down": {
+      "model": "breaker:block/stone_breaker_block_on",
+      "x": 90
+    },
+    "powered=true,facing=east": {
+      "model": "breaker:block/stone_breaker_block_on",
+      "y": 90
+    },
+    "powered=true,facing=north": {
+      "model": "breaker:block/stone_breaker_block_on"
+    },
+    "powered=true,facing=south": {
+      "model": "breaker:block/stone_breaker_block_on",
+      "y": 180
+    },
+    "powered=true,facing=up": {
+      "model": "breaker:block/stone_breaker_block_on",
+      "x": 270
+    },
+    "powered=true,facing=west": {
+      "model": "breaker:block/stone_breaker_block_on",
+      "y": 270
+    }
+  }
+}

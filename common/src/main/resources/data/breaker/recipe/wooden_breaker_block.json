@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BBB", "RDI", "BBB"],
+  "key": {
+    "B": { "item": "minecraft:iron_block" },
+    "R": { "item": "minecraft:redstone_block" },
+    "D": { "item": "minecraft:wooden_shovel" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": { "item": "breaker:wood_breaker_block" }
+}

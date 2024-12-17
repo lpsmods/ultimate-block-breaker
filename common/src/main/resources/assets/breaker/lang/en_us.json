@@ -1,0 +1,10 @@
+{
+  "block.breaker.wood_breaker_block": "Wooden Breaker Block",
+  "block.breaker.stone_breaker_block": "Stone Breaker Block",
+  "block.breaker.iron_breaker_block": "Iron Breaker Block",
+  "block.breaker.gold_breaker_block": "Gold Breaker Block",
+  "block.breaker.diamond_breaker_block": "Diamond Breaker Block",
+  "block.breaker.netherite_breaker_block": "Netherite Breaker Block",
+
+  "block.breaker.ultimate_block_breaker": "Ultimate Block Breaker"
+}

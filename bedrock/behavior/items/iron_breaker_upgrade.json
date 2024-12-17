@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "breaker:iron_breaker_upgrade",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.search"
+      }
+    },
+    "components": {
+      "minecraft:hand_equipped": true,
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": "breaker:iron_breaker_upgrade"
+    }
+  }
+}

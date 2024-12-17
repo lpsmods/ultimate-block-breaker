@@ -1,0 +1,10 @@
+{
+  "values": [
+    "breaker:wood_breaker_block",
+    "breaker:stone_breaker_block",
+    "breaker:iron_breaker_block",
+    "breaker:gold_breaker_block",
+    "breaker:diamond_breaker_block",
+    "breaker:netherite_breaker_block"
+  ]
+}

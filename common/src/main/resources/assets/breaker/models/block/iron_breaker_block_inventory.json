@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "breaker:block/breaker_bottom",
+    "side": "breaker:block/iron_breaker_side",
+    "top": "breaker:block/iron_breaker_top"
+  }
+}
