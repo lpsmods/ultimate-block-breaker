@@ -1,0 +1,281 @@
+{
+   "content" : [
+      {
+         "path" : "textures/breaker/blocks/wooden_block_breaker_top.png"
+      },
+      {
+         "path" : "CHANGELOG.md"
+      },
+      {
+         "path" : "LICENSE"
+      },
+      {
+         "path" : "texts/languages.json"
+      },
+      {
+         "path" : "textures/breaker/blocks/stone_block_breaker_side.png"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "blocks.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/gold_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/diamond_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/items/stone_breaker_upgrade.png"
+      },
+      {
+         "path" : "texts/en_US.lang"
+      },
+      {
+         "path" : "textures/breaker/blocks/stone_block_breaker_top_on.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/block_breaker_bottom.png"
+      },
+      {
+         "path" : "textures/breaker/unused/gold_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/wooden_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/diamond_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/gold_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/iron_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/diamond_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/diamond_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/iron_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/gold_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/diamond_block_breaker_top_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/gold_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/diamond_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/iron_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/gold_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/gold_block_breaker_top_on.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/iron_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/iron_block_breaker_top_on.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/netherite_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/netherite_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/wooden_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/netherite_block_breaker_top_on.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/stone_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/wooden_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/blocks/wooden_block_breaker_top_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/iron_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/copper_block_breaker_top_on.png"
+      },
+      {
+         "path" : "textures/breaker/items/diamond_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/items/gold_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/items/netherite_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/items/iron_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/diamond_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/diamond_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/wooden_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/diamond_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/gold_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/iron_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/netherite_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/netherite_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/netherite_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/wooden_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/netherite_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/stone_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/stone_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/stone_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/alt/stone_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/copper_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/copper_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/diamond_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/unused/diamond_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/diamond_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/gold_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/unused/gold_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/gold_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/gold_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/iron_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/unused/iron_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/iron_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/iron_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/iron_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/netherite_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/unused/netherite_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/netherite_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/netherite_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/netherite_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/stone_breaker_upgrade.png"
+      },
+      {
+         "path" : "textures/breaker/unused/stone_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/stone_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/stone_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/stone_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/breaker/unused/wooden_shovel_block_breaker_front.png"
+      },
+      {
+         "path" : "textures/breaker/unused/wooden_shovel_block_breaker_front_on.png"
+      },
+      {
+         "path" : "textures/breaker/unused/wooden_shovel_block_breaker_side.png"
+      },
+      {
+         "path" : "textures/breaker/unused/wooden_shovel_block_breaker_top.png"
+      },
+      {
+         "path" : "textures/flipbook_textures.json"
+      },
+      {
+         "path" : "textures/item_texture.json"
+      },
+      {
+         "path" : "textures/terrain_texture.json"
+      },
+      {
+         "path" : "textures/texture_list.json"
+      }
+   ],
+   "version" : 1
+}

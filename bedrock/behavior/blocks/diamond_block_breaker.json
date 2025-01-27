@@ -12,8 +12,7 @@
         }
       },
       "menu_category": {
-        "category": "items",
-        "group": "itemGroup.search"
+        "category": "items"
       }
     },
     "components": {

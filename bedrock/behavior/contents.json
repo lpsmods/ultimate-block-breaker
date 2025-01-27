@@ -1,0 +1,167 @@
+{
+   "content" : [
+      {
+         "path" : "node_modules/@minecraft/server/package.json"
+      },
+      {
+         "path" : "LICENSE"
+      },
+      {
+         "path" : "blocks/diamond_block_breaker.json"
+      },
+      {
+         "path" : "blocks/netherite_block_breaker.json"
+      },
+      {
+         "path" : "blocks/iron_block_breaker.json"
+      },
+      {
+         "path" : "blocks/gold_block_breaker.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "blocks/stone_block_breaker.json"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "recipes/stone_block_breaker.json"
+      },
+      {
+         "path" : "blocks/wooden_block_breaker.json"
+      },
+      {
+         "path" : "recipes/wooden_block_breaker.json"
+      },
+      {
+         "path" : "functions/dev/breaker_blocks.mcfunction"
+      },
+      {
+         "path" : "functions/dev/breaker_items.mcfunction"
+      },
+      {
+         "path" : "scripts/registry.js"
+      },
+      {
+         "path" : "items/diamond_breaker_upgrade.json"
+      },
+      {
+         "path" : "recipes/gold_block_breaker.json"
+      },
+      {
+         "path" : "loot_tables/blocks/diamond_block_breaker.json"
+      },
+      {
+         "path" : "items/iron_breaker_upgrade.json"
+      },
+      {
+         "path" : "items/gold_breaker_upgrade.json"
+      },
+      {
+         "path" : "items/netherite_breaker_upgrade.json"
+      },
+      {
+         "path" : "items/stone_breaker_upgrade.json"
+      },
+      {
+         "path" : "node_modules/@minecraft/common/package.json"
+      },
+      {
+         "path" : "loot_tables/blocks/gold_block_breaker.json"
+      },
+      {
+         "path" : "loot_tables/blocks/wooden_block_breaker.json"
+      },
+      {
+         "path" : "loot_tables/blocks/iron_block_breaker.json"
+      },
+      {
+         "path" : "loot_tables/blocks/netherite_block_breaker.json"
+      },
+      {
+         "path" : "recipes/diamond_breaker_upgrade.json"
+      },
+      {
+         "path" : "node_modules/@minecraft/server/tsconfig.json"
+      },
+      {
+         "path" : "loot_tables/blocks/stone_block_breaker.json"
+      },
+      {
+         "path" : "node_modules/.package-lock.json"
+      },
+      {
+         "path" : "node_modules/@minecraft/common/.eslintrc.json"
+      },
+      {
+         "path" : "scripts/block/BreakerBlockComponent.js"
+      },
+      {
+         "path" : "node_modules/@minecraft/common/README.md"
+      },
+      {
+         "path" : "node_modules/@minecraft/common/index.d.ts"
+      },
+      {
+         "path" : "recipes/netherite_breaker_upgrade.json"
+      },
+      {
+         "path" : "package-lock.json"
+      },
+      {
+         "path" : "node_modules/@minecraft/common/tsconfig.json"
+      },
+      {
+         "path" : "node_modules/@minecraft/server/.eslintrc.json"
+      },
+      {
+         "path" : "node_modules/@minecraft/server/index.d.ts"
+      },
+      {
+         "path" : "node_modules/@minecraft/server/README.md"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "recipes/gold_breaker_upgrade.json"
+      },
+      {
+         "path" : "package.json"
+      },
+      {
+         "path" : "recipes/diamond_block_breaker.json"
+      },
+      {
+         "path" : "recipes/iron_block_breaker.json"
+      },
+      {
+         "path" : "texts/languages.json"
+      },
+      {
+         "path" : "recipes/iron_breaker_upgrade.json"
+      },
+      {
+         "path" : "recipes/netherite_block_breaker.json"
+      },
+      {
+         "path" : "recipes/stone_breaker_upgrade.json"
+      },
+      {
+         "path" : "scripts/item/BreakerUpgradeComponent.js"
+      },
+      {
+         "path" : "scripts/main.js"
+      },
+      {
+         "path" : "scripts/utils.js"
+      },
+      {
+         "path" : "texts/en_US.lang"
+      }
+   ],
+   "version" : 1
+}
