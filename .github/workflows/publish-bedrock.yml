@@ -21,7 +21,7 @@ jobs:
         id: custom_action
         uses: legopitstop/build-mcpack-action@v2
         with:
-          input: src
+          input: bedrock
           output: build
           outputPattern: "NAME_ABBR-VERSION.mcpack"
           
