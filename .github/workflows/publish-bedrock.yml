@@ -1,0 +1,27 @@
+name: Build and Publish MCPACK
+
+on:
+  # Run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  packages: write
+  contents: write
+  id-token: write
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Bundle and create release.
+        id: custom_action
+        uses: legopitstop/build-mcpack-action@v2
+        with:
+          input: src
+          output: build
+          outputPattern: "NAME_ABBR-VERSION.mcpack"
+          
