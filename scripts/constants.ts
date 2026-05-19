@@ -1,1 +1,1 @@
-export const PROJECT_ID = 'lpsm_breaker';
+export const PROJECT_ID = "lpsm_breaker";

@@ -15,22 +15,22 @@ export function registerItemComponents(reg: ItemComponentRegistry): void {
 
   reg.registerCustomComponent(
     "breaker:stone_upgrade",
-    new BreakerUpgradeComponent().addBlock("breaker:wooden_block_breaker", "breaker:stone_block_breaker")
+    new BreakerUpgradeComponent().addBlock("breaker:wooden_block_breaker", "breaker:stone_block_breaker"),
   );
   reg.registerCustomComponent(
     "breaker:iron_upgrade",
-    new BreakerUpgradeComponent().addBlock("breaker:stone_block_breaker", "breaker:iron_block_breaker")
+    new BreakerUpgradeComponent().addBlock("breaker:stone_block_breaker", "breaker:iron_block_breaker"),
   );
   reg.registerCustomComponent(
     "breaker:gold_upgrade",
-    new BreakerUpgradeComponent().addBlock("breaker:iron_block_breaker", "breaker:gold_block_breaker")
+    new BreakerUpgradeComponent().addBlock("breaker:iron_block_breaker", "breaker:gold_block_breaker"),
   );
   reg.registerCustomComponent(
     "breaker:diamond_upgrade",
-    new BreakerUpgradeComponent().addBlock("breaker:gold_block_breaker", "breaker:diamond_block_breaker")
+    new BreakerUpgradeComponent().addBlock("breaker:gold_block_breaker", "breaker:diamond_block_breaker"),
   );
   reg.registerCustomComponent(
     "breaker:netherite_upgrade",
-    new BreakerUpgradeComponent().addBlock("breaker:diamond_block_breaker", "breaker:netherite_block_breaker")
+    new BreakerUpgradeComponent().addBlock("breaker:diamond_block_breaker", "breaker:netherite_block_breaker"),
   );
 }

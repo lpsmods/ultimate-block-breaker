@@ -18,9 +18,7 @@ export function numberToDirection(e) {
 }
 export function directionToOffset(e) {
   if (null != e)
-    switch (
-      ("number" == typeof e && (e = numberToDirection(e)), e.toLowerCase())
-    ) {
+    switch (("number" == typeof e && (e = numberToDirection(e)), e.toLowerCase())) {
       case 0:
       case "north":
         return { x: 0, y: 0, z: -1 };
@@ -60,8 +58,6 @@ export function getNeighborUpdate(e) {
       e.block.below()?.permutation,
     ];
   if (o) {
-    for (let n = 0; n < r.length; n++)
-      if (o[n] != r[n])
-        return (CACHE[t] = r), e.block.offset(directionToOffset(n));
+    for (let n = 0; n < r.length; n++) if (o[n] != r[n]) return ((CACHE[t] = r), e.block.offset(directionToOffset(n)));
   } else CACHE[t] = r;
 }
