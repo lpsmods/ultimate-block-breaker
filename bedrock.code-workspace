@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "Ultimate Block Breaker Add-On",
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "files.associations": {
+      "*.json": "jsonc",
+    },
+  },
+}
