@@ -10,7 +10,7 @@ This add-on adds different tiered block breakers to break any blocks (besides be
 
 This repository has multiple branches for each platform this Minecraft mod supports.
 
-- [`1.21`](https://github.com/lpsmods/ultimate-block-breaker/tree/1.21)
+- [`java`](https://github.com/lpsmods/ultimate-block-breaker/tree/1.21)
 - [`bedrock`](https://github.com/lpsmods/ultimate-block-breaker/tree/bedrock)
 
 ## Mod Data
