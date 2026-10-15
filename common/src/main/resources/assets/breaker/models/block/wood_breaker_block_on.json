@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_piston",
-  "textures": {
-    "bottom": "breaker:block/breaker_bottom",
-    "platform": "breaker:block/wood_breaker_top_on",
-    "side": "breaker:block/wood_breaker_side"
-  }
-}
