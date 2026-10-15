@@ -15,10 +15,10 @@ This repository has multiple branches for each platform this Minecraft mod suppo
 
 ## Mod Data
 
-| Key                    | Value                    |
-| ---------------------- | ------------------------ |
-| namespace              | `lpsm_ubb`               |
-| ultimate-block-breaker | `ultimate-block-breaker` |
+| Key       | Value                    |
+| --------- | ------------------------ |
+| namespace | `lpsm_ubb`               |
+| slug      | `ultimate-block-breaker` |
 
 ## LINKS
 
